@@ -1,0 +1,13 @@
+Grocery Store Simulation — Python Learning Summary
+
+This mini-project helped me level up on Python skills:
+
+I used SimPy generators (yield env.timeout(...)) to model shopping and checkout steps.
+
+I learned how to track shared data in global lists and counters.
+
+Splitting the code into small functions (shopper, checker, main, etc.) made everything easier to read and tweak.
+
+Adding random.seed(...) showed me how to switch between unpredictable runs and repeatable tests.
+
+Overall, this lab was a fun way to practice structuring clean, modular Python code and working with an external library.
